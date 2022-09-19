@@ -1,6 +1,6 @@
 ### About Me:
 
-- 👋 Hi, I’m Rohit Budhiraja || Aspiring Business/Data Analyst. 
+- 👋 Hi, I’m Rohit Budhiraja || Business Analyst @ Genpact 
 - 👀 Skills ...Python || [Tableau](https://public.tableau.com/app/profile/rohit.budhiraja1186) || SQL || Excel || ML || Jupytr
 - 🌱 I’m currently learning ... Data Analysis and Machine Learning
 - 📫 How to reach me ...  [LinkedIN](https://www.linkedin.com/in/rohit-budhiraja-35387b189/)  [Email] rohitbudhiraja10@gmail.com
