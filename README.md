@@ -6,10 +6,7 @@
 - 📫 How to reach me ...  [LinkedIN](https://www.linkedin.com/in/rohit-budhiraja-35387b189/)  [Email] rohitbudhiraja10@gmail.com
 - [Website:](https://rohitbudhiraja-xyz.stackstaging.com/) Visit my Website for some datascience fun.
 
-I am a Data Science enthusiast having interests in Data Analytics, Data Visualization, and Machine
-Learning. I have two years of experience as a Jr. Operations Manager. I have completed my graduation
-Bachelor of Business Management from Guru Gobind Singh Indraprastha University, Delhi.
-
+I am a Data enthusiast having interests in Data Analytics, Data Visualization, and Machine Learning. I have three years of experience as a Business Analyst. I have Proficient Experience in Excel, SQL & Tableau. I have completed my 6-months Business Analytics certification from IMS Proschool.
 
 <!--
 **rohitbudhiraja/rohitbudhiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
