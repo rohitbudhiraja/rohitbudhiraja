@@ -1,7 +1,7 @@
 ### About Me:
 
 - 👋 Hi, I’m Rohit Budhiraja || 
-- 👀 Skills ...Python || [Tableau](https://public.tableau.com/app/profile/rohit.budhiraja1186) || SQL || Excel || Power BI || Python
+- 👀 Skills ...[Tableau](https://public.tableau.com/app/profile/rohit.budhiraja1186) || SQL || Excel || Power BI || Python
 - 🌱 I’m currently learning ... Data Analysis and Machine Learning
 - 📫 How to reach me ...  [LinkedIN](https://www.linkedin.com/in/rohit-budhiraja-35387b189/)  [Email] rohitbudhiraja10@gmail.com
 - [Website:](https://rohitbudhiraja-xyz.stackstaging.com/) Visit my Website for some datascience fun.
